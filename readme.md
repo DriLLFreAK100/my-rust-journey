@@ -9,3 +9,7 @@ This is just a simple learning log of me learning Rust, coming from a JS, TS and
 - Started reading [The Book](https://doc.rust-lang.org/book/)
 - Completed Chapter 1 - "Getting Started"
     - Learnt basic Rust and Cargo commands, `rustc`, `cargo build/run/check`
+
+## 20220709
+- Completed Chapter 2 - Build the number guessing game
+- Completed Chapter 3 - "Common Programming Concepts"
